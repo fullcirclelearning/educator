@@ -32,7 +32,7 @@ export default function Navigation() {
             <li><a href="/what-will-we-learn" className="text-xl hover:text-gray-600">What Will We Learn</a></li>
             <li><a href="/testimonials" className="text-xl hover:text-gray-600">Testimonials</a></li>
             <li><a href="/studies" className="text-xl hover:text-gray-600">Studies</a></li>
-            <li><a href="/cost" className="text-xl hover:text-gray-600">Cost</a></li>
+            <li><a href="/training-options" className="text-xl hover:text-gray-600">Training Options</a></li>
             <li><a href="/gallery" className="text-xl hover:text-gray-600">Gallery</a></li>
             <li><a href="/contact-us" className="text-xl hover:text-gray-600">Contact Us</a></li>
           </ul>
